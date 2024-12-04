@@ -1,4 +1,4 @@
-# Excerise 8
+# Exercise 8
 The exercise demonstrates how to eliminate resource contention selectively by using a semaphore to protect critical code sections in a multitasking environment. It builds on concepts learned in previous exercises to ensure safe access to shared resources.
 The program uses the STM32F1 board and FreeRTOS to simulate multitasking and resource management while operating LEDs.
 
