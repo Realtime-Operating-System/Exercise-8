@@ -42,6 +42,9 @@ Tasks include delays (osDelay) to create a realistic multitasking environment.
   #### FreeRTOS
   <img width="928" alt="freertos" src="https://github.com/user-attachments/assets/c44efd36-a3ea-4e1c-897c-7d2aa88d6ee7">
 
+  #### Add a binary semaphore with the name 'CriticalResourceSemaphore'
+  <img width="778" alt="binarySemaphore" src="https://github.com/user-attachments/assets/aee0adf0-f3e0-4e78-8414-4dc8fbb56e25">
+  
 - Generate the project files for your IDE.
 ### Build and Deploy:
 - Import the generated project into your IDE.
