@@ -107,4 +107,5 @@ Tasks include delays (osDelay) to create a realistic multitasking environment.
 
 ## Demo Video
 [Exercise 8](https://github.com/user-attachments/assets/106d13f0-09b4-41d8-b4c5-b24b548eb492)
+Note: white LED = blue LED
 
